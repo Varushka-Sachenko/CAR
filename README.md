@@ -3,4 +3,4 @@
 
 Как выглядит модель?
 
-![Модель машинки](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Модель машинки](https://github.com/Varushka-Sachenko/CAR/blob/main/tesla%201.png)
