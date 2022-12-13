@@ -3,3 +3,4 @@
 
 Как выглядит модель?
 
+![Модель машинки](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
